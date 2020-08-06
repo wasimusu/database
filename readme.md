@@ -2,11 +2,11 @@
 A template setup for cpp project.
 
 It contains the following:
-- CMake as a build tool
-- TravisCI for continuous integration
-- Google Tests for testing the project libraries
-- Google Benchmark for benchmarking the project libraries
-- Documentation on readthedocs.org built using Sphinx, Doxygen and breathe.
+* CMake as a build tool
+* TravisCI for continuous integration
+* Google Tests for testing the project libraries
+* Google Benchmark for benchmarking the project libraries
+* Documentation on readthedocs.org built using Sphinx, Doxygen and breathe.
 
 The template documentation for this project is on [readthedocs](https://cpp-project-setup.readthedocs.io/en/latest/).
 
@@ -27,3 +27,7 @@ As prequisites, CMAKE and git needs to be already installed.
 cd graphs
 sh install.sh
 ```
+
+### Generating Documentation
+To generate documentation on readthedocs.org, do the following:
+- On readthedocs.org, select your project for generating documentation and build.
