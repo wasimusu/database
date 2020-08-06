@@ -26,6 +26,7 @@ This section shows usage of the lib.cpp library to add two numbers.
         std::cout << "Adding two numbers 1 and 2: " << add(1, 2) << std::endl;
         return 0;
     }
+
 API References
 ==============
 :doc:`APIs 1 Reference <api1>`

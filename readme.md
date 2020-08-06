@@ -32,9 +32,10 @@ sh install.sh
 To generate documentation on readthedocs.org, do the following:
 - On readthedocs.org, select your project for generating documentation and build.
 
-To generate documentation locally:
+To generate documentation locally each time you change the documentation:
 ```
 cd docs
+doxygen Doxyfile
 make html
 ```
 Open the docs/build/html/index.html in your browser to view the documentation on localhost.

@@ -49,7 +49,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 breathe_projects = {
-    "graphs": "../build/xml"
+    "cpp_project": "../build/xml"
 }
 
 # -- Options for HTML output -------------------------------------------------
