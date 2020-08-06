@@ -1,9 +1,14 @@
 ## cpp_project
 A template setup for cpp project.
 
-It uses Google Tests for unit testing and Google Benchmark for benchmarking the library. Measure before optimization.
+It contains the following:
+- CMake as a build tool
+- TravisCI for continuous integration
+- Google Tests for testing the project libraries
+- Google Benchmark for benchmarking the project libraries
+- Documentation on readthedocs.org built using Sphinx, Doxygen and breathe.
 
-A clean succinct documentation is available on [readthedocs](https://graphs.readthedocs.io/en/latest/).
+The template documentation for this project is on [readthedocs](https://cpp-project-setup.readthedocs.io/en/latest/).
 
 #### Build Status
 <img src="https://travis-ci.com/wasimusu/cpp_project.svg?branch=master" width="100">
