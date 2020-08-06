@@ -35,6 +35,7 @@ To generate documentation on readthedocs.org, do the following:
 To generate documentation locally each time you change the documentation:
 ```
 cd docs
+make clean
 doxygen Doxyfile
 make html
 ```
