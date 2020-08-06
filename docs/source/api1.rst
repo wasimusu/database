@@ -1,4 +1,4 @@
-.. _algorithm_ref:
+.. _api1_ref:
 
 CPP Project API reference
 ==============================

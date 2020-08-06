@@ -31,3 +31,10 @@ sh install.sh
 ### Generating Documentation
 To generate documentation on readthedocs.org, do the following:
 - On readthedocs.org, select your project for generating documentation and build.
+
+To generate documentation locally:
+```
+cd docs
+make html
+```
+Open the docs/build/html/index.html in your browser to view the documentation on localhost.

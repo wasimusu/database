@@ -28,7 +28,7 @@ This section shows usage of the lib.cpp library to add two numbers.
     }
 API References
 ==============
-:doc:`APIs 1 Reference <algorithm>`
+:doc:`APIs 1 Reference <api1>`
 
 Indices and tables
 ==================
