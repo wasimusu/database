@@ -1,0 +1,6 @@
+cmake-build-debug
+docs/build
+.github
+.idea
+benchmark/benchmark
+test/googletest
