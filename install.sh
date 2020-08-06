@@ -9,4 +9,4 @@ cmake ..
 make
 
 ./test/tests
-./src/graphs
+./src/cpp_project
