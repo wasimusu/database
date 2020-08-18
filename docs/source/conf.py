@@ -26,7 +26,7 @@ if read_the_docs_build:
 
 # -- Project information -----------------------------------------------------
 
-project = 'cpp_project'
+project = 'database'
 copyright = '2020, Wasim'
 author = 'Wasim'
 
@@ -49,7 +49,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 breathe_projects = {
-    "cpp_project": "../build/xml"
+    "database": "../build/xml"
 }
 
 # -- Options for HTML output -------------------------------------------------

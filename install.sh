@@ -17,4 +17,4 @@ cmake ..
 make -j8
 
 ./test/tests
-./src/cpp_project
+./src/database

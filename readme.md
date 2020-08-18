@@ -1,4 +1,4 @@
-## cpp_project
+## database
 A template setup for cpp project.
 
 It contains the following:
@@ -11,7 +11,7 @@ It contains the following:
 The template documentation for this project is on [readthedocs](https://cpp-project-setup.readthedocs.io/en/latest/).
 
 #### Build Status
-<img src="https://travis-ci.com/wasimusu/cpp_project.svg?branch=master" width="100">
+<img src="https://travis-ci.com/wasimusu/database.svg?branch=master" width="100">
 <img src="https://readthedocs.org/projects/graphs/badge/?version=latest">
 
 

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
-project(cpp_project)
+project(database)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED true)
